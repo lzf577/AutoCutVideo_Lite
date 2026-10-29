@@ -1,0 +1,7 @@
+PyQt6>=6.4.0
+faster-whisper>=1.0.0
+PyMuPDF>=1.23.0
+Pillow>=10.0.0
+imageio_ffmpeg>=0.4.9
+openai>=1.0.0
+zhconv>=1.4.3
